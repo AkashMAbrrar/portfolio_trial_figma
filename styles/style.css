@@ -95,3 +95,11 @@ main {
   max-width: 1140px;
   margin: 0 auto;
 }
+/* items description for portfolio owner */
+.about_items {
+  display: flex;
+  justify-content: space-around;
+}
+.item_description {
+  font-weight: 600;
+}
